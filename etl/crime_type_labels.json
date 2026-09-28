@@ -1,0 +1,63 @@
+{
+  "凶悪犯": {
+    "ja": "凶悪犯",
+    "en": "Violent crime",
+    "details": {
+      "強盗": { "ja": "強盗", "en": "Robbery" },
+      "その他": { "ja": "その他", "en": "Other violent crime" }
+    }
+  },
+  "粗暴犯": {
+    "ja": "粗暴犯",
+    "en": "Rough crime",
+    "details": {
+      "凶器準備集合": { "ja": "凶器準備集合", "en": "Assembly with weapons" },
+      "暴行": { "ja": "暴行", "en": "Assault" },
+      "傷害": { "ja": "傷害", "en": "Bodily injury" },
+      "脅迫": { "ja": "脅迫", "en": "Intimidation" },
+      "恐喝": { "ja": "恐喝", "en": "Extortion" }
+    }
+  },
+  "侵入窃盗": {
+    "ja": "侵入窃盗",
+    "en": "Burglary",
+    "details": {
+      "金庫破り": { "ja": "金庫破り", "en": "Safe-cracking" },
+      "学校荒し": { "ja": "学校荒し", "en": "School burglary" },
+      "事務所荒し": { "ja": "事務所荒し", "en": "Office burglary" },
+      "出店荒し": { "ja": "出店荒し", "en": "Shop burglary" },
+      "空き巣": { "ja": "空き巣", "en": "Burglary (unoccupied)" },
+      "忍込み": { "ja": "忍込み", "en": "Burglary (occupied, asleep)" },
+      "居空き": { "ja": "居空き", "en": "Burglary (occupied, awake)" },
+      "その他": { "ja": "その他", "en": "Other burglary" }
+    }
+  },
+  "非侵入窃盗": {
+    "ja": "非侵入窃盗",
+    "en": "Non-intrusive theft",
+    "details": {
+      "自動車盗": { "ja": "自動車盗", "en": "Car theft" },
+      "オートバイ盗": { "ja": "オートバイ盗", "en": "Motorcycle theft" },
+      "自転車盗": { "ja": "自転車盗", "en": "Bicycle theft" },
+      "車上ねらい": { "ja": "車上ねらい", "en": "Theft from vehicle" },
+      "自販機ねらい": { "ja": "自販機ねらい", "en": "Vending machine theft" },
+      "工事場ねらい": { "ja": "工事場ねらい", "en": "Construction site theft" },
+      "すり": { "ja": "すり", "en": "Pickpocketing" },
+      "ひったくり": { "ja": "ひったくり", "en": "Snatch theft" },
+      "置引き": { "ja": "置引き", "en": "Baggage theft" },
+      "万引き": { "ja": "万引き", "en": "Shoplifting" },
+      "その他": { "ja": "その他", "en": "Other non-intrusive theft" }
+    }
+  },
+  "その他": {
+    "ja": "その他",
+    "en": "Other",
+    "details": {
+      "詐欺": { "ja": "詐欺", "en": "Fraud" },
+      "占有離脱物横領": { "ja": "占有離脱物横領", "en": "Embezzlement of lost property" },
+      "その他知能犯": { "ja": "その他知能犯", "en": "Other intellectual crime" },
+      "賭博": { "ja": "賭博", "en": "Gambling" },
+      "その他刑法犯": { "ja": "その他刑法犯", "en": "Other penal code offense" }
+    }
+  }
+}

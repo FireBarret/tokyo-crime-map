@@ -1,0 +1,22 @@
+[project]
+name = "tokyo-crime-map-etl"
+version = "0.1.0"
+description = "ETL scripts for the Tokyo crime map: parse MPD XLSX, build chome boundaries, load D1 seed SQL"
+requires-python = ">=3.12"
+dependencies = [
+    "openpyxl>=3.1",
+    "xlrd>=2.0",
+    "pandas>=2.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["etl/tests"]
